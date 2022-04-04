@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.c740ea6514c022cf762e680f54399d4c?rik=zuqEN989G%2fQhHg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-uvFa2MDXABs%2fUk6OcggmzVI%2fAAAAAAAAQlo%2fHnfpcFvnDWY%2fs1600%2fTurismo%2bde%2bnaturaleza%2ben%2bCanad%c3%a1.jpg&ehk=d8Bojhz1hcNko1CWOgeU3xdzRL1hnbEeptzumfDu0io%3d&risl=&pid=ImgRaw&r=0);
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;    
+}
+
+table{
+    width: 90%;
+    color: white;
+    margin: 0 auto;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(121, 86, 203);
+    border: 1px solid yellow;
+}
+
+td{
+    background-color: blue;
+    border: 1px solid white;
+}
